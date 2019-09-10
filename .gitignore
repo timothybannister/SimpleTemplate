@@ -1,0 +1,8 @@
+*~
+._*
+.env
+.idea
+/.idea
+/vendor
+*.DS_Store
+*._.DS_Store
